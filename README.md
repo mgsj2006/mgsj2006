@@ -14,17 +14,17 @@
 </p>
 <br>
   <a href="https://www.linkedin.com/in/mgsj2006">
-    <img align="left" alt="Manoel Jr | Linkedin" width="40px" src="https://drive.google.com/uc?export=view&id=1OZBBrAUS6sMM1OvJYtY2Dh5KuyUKWgWD" />
+    <img align="left" alt="Manoel Jr | Linkedin" width="80px" src="https://drive.google.com/uc?export=view&id=1OZBBrAUS6sMM1OvJYtY2Dh5KuyUKWgWD" />
   </a>
   <a href="https://manoti.com.br">
-    <img align="left" alt="Manoel Jr | Enterprise" width="40px" src="https://drive.google.com/uc?export=view&id=1DSEA30JURw9SbqjiveADO6wj7o4u9EXD" />
+    <img align="left" alt="Manoel Jr | Enterprise" width="80px" src="https://drive.google.com/uc?export=view&id=1DSEA30JURw9SbqjiveADO6wj7o4u9EXD" />
    </a>
   <a href="mailto:mgsj2006@gmail.com">
-    <img align="left" alt="Manoel Jr | MCSA" width="40px" src="https://drive.google.com/uc?export=view&id=1q-1CSdyZcnqVKtkMW554Nc3ACWpgKT7I" />
+    <img align="left" alt="Manoel Jr | MCSA" width="80px" src="https://drive.google.com/uc?export=view&id=1q-1CSdyZcnqVKtkMW554Nc3ACWpgKT7I" />
   </a>
-
 <br>
-
+<br>
+<br>
 
 ![Manoel's github stats](https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true)
 
