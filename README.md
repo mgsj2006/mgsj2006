@@ -3,11 +3,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá!&nbsp;
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
+    Sour Pós-Graduado em Engenharia de Rede pela <a href="https://www.infnet.edu.br/infnet/"> <b>Infnet</b>, Rio de Janeiro - BR</a>. <br>
     Sou <b>Analista de Infraestrutura</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e <b>Especialista em Microsoft 365,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>, também sou <b>entusiasta</b>
-    de computação em <b>nuvem</b>, por isso estou sempre estudando sobre novas tecnologias do mercado. 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    de computação em <b>nuvem</b>, por isso estou sempre estudando sobre novas tecnologias do mercado. <br>
+     Para <b>crescer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> e me tornar um profissional de 
+    <b>ecelencia.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
