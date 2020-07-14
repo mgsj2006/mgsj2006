@@ -1,13 +1,15 @@
 # Manoel Junior <img src ="https://media.giphy.com/media/iFmXcljNHXHXm3tONG/giphy.gif" width="50px">
 
+<img src="https://drive.google.com/file/d/1oEtu4b8vS0_eiB5HkA5zxUJqJqW67dMx/view?usp=sharing">
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá!&nbsp;
 <p>
   <em>
     Sour Pós-Graduado em Engenharia de Rede pela <a href="https://www.infnet.edu.br/infnet/"> <b>Infnet</b>, Rio de Janeiro - BR</a>. <br>
-    Sou <b>Analista de Infraestrutura</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e <b>Especialista em Microsoft 365,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>, também sou <b>entusiasta</b>
+    Sou <b>Analista de Infraestrutura</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e <b>Especialista em Microsoft 365</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, também sou <b>entusiasta</b>
     de computação em <b>nuvem</b>, por isso estou sempre estudando sobre novas tecnologias do mercado. <br>
-     Para <b>crescer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> e me tornar um profissional de 
-    <b>ecelencia.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+     Busco <b>crescer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> e me tornar um profissional de 
+    <b>ecelencia</b> em TI. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
