@@ -33,7 +33,7 @@
 <br>
 <br>
 <b> Emtre em contato comigo: </b>
-<br>
+<br><br>
   <a href="https://www.linkedin.com/in/mgsj2006">
     <img align="left" alt="Manoel Jr | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -44,7 +44,7 @@
     <img align="left" alt="Manoel Jr | Email" width="26px" src="https://drive.google.com/uc?export=view&id=1dLnPlaznpB4zhFwV-USAPehvNF2hhk1O" />
   </a>
   <a href="https://t.me/mgsj2006">
-    <img align="left" alt="Manoel Jr | Email" width="26px" src="https://drive.google.com/uc?export=view&id=1-KkucvYI09E5EnrH52jjwd0XjPGkYsc2" />
+    <img align="left" alt="Manoel Jr | Telegram" width="26px" src="https://drive.google.com/uc?export=view&id=1-KkucvYI09E5EnrH52jjwd0XjPGkYsc2" />
   </a>
 <br><br><br><br>
 </p>
