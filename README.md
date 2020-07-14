@@ -1,6 +1,6 @@
 # Manoel Junior <img src ="https://media.giphy.com/media/iFmXcljNHXHXm3tONG/giphy.gif" width="50px">
 
-<img src="https://drive.google.com/file/d/1oEtu4b8vS0_eiB5HkA5zxUJqJqW67dMx/view?usp=sharing">
+<img src="https://drive.google.com/uc?export=view&id=1oEtu4b8vS0_eiB5HkA5zxUJqJqW67dMx">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá!&nbsp;
 <p>
