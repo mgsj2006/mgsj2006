@@ -43,7 +43,9 @@
   <a href="mailto:mgsj2006@gmail.com">
     <img align="left" alt="Manoel Jr | Email" width="26px" src="https://drive.google.com/uc?export=view&id=1dLnPlaznpB4zhFwV-USAPehvNF2hhk1O" />
   </a>
-
+  <a href="https://t.me/mgsj2006">
+    <img align="left" alt="Manoel Jr | Email" width="26px" src="https://drive.google.com/uc?export=view&id=1-KkucvYI09E5EnrH52jjwd0XjPGkYsc2" />
+  </a>
 <br><br><br><br>
 </p>
 <div align="right"><img src="https://media.giphy.com/media/13V60VgE2ED7oc/giphy.gif" width="80px"></div>
