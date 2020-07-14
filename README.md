@@ -1,6 +1,6 @@
 # Manoel Junior <img src ="https://media.giphy.com/media/iFmXcljNHXHXm3tONG/giphy.gif" width="50px">
 
-<img src="https://drive.google.com/uc?export=view&id=1oEtu4b8vS0_eiB5HkA5zxUJqJqW67dMx">
+<center><img src="https://drive.google.com/uc?export=view&id=1oEtu4b8vS0_eiB5HkA5zxUJqJqW67dMx">
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá!&nbsp;
 <p>
@@ -31,7 +31,7 @@
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   <a href="mailto:mgsj2006@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Manoel Jr | Email" width="26px" src="https://drive.google.com/uc?export=view&id=1dLnPlaznpB4zhFwV-USAPehvNF2hhk1O" />
   </a>
 
 <br><br><br><br>
