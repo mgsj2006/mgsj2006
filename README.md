@@ -1,7 +1,6 @@
 # Manoel Junior <img src ="https://media.giphy.com/media/iFmXcljNHXHXm3tONG/giphy.gif" width="50px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://media.giphy.com/media/13V60VgE2ED7oc/giphy.gif" width="40px">
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá!&nbsp;
 <p>
   <em>
     I am a 3rd Year undergraduate from <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>
@@ -20,19 +19,22 @@
 
 <br>
 
-  <a href="https://in.linkedin.com/in/TheDudeThatCode">
+  <a href="https://www.linkedin.com/in/mgsj2006">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/TheDudeThatCode">
+  <a href="https://manoti.com.br">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/thedudethatcode/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
-  <a href="mailto:shubhamdeepjha@gmail.com">
+  <a href="mailto:mgsj2006@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
 <br><br><br><br>
+</p>
+<img src="https://media.giphy.com/media/13V60VgE2ED7oc/giphy.gif" width="80px">
+
 
 **⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
