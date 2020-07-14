@@ -25,7 +25,7 @@
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://manoti.com.br">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Manoel Jr | Site" width="26px" src="https://drive.google.com/uc?export=view&id=1GQlIVzvrZua3j_CvN20Hh5O6IAU3yk1i" />
   </a>
   <a href="https://www.instagram.com/thedudethatcode/">
     <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
