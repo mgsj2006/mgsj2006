@@ -12,6 +12,7 @@
     <b>ecelencia</b> em TI. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
+<p>
 <br>
   <a href="https://www.linkedin.com/in/mgsj2006">
     <img align="left" alt="Manoel Jr | Linkedin" width="80px" src="https://drive.google.com/uc?export=view&id=1OZBBrAUS6sMM1OvJYtY2Dh5KuyUKWgWD" />
@@ -22,14 +23,17 @@
   <a href="mailto:mgsj2006@gmail.com">
     <img align="left" alt="Manoel Jr | MCSA" width="80px" src="https://drive.google.com/uc?export=view&id=1q-1CSdyZcnqVKtkMW554Nc3ACWpgKT7I" />
   </a>
-<br>
-<br>
-<br>
+</p>
+<br><br><br><br>
+
 
 ![Manoel's github stats](https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true)
 
-<br>
 
+<br>
+<br>
+<b> Emtre em contato comigo: </b>
+<br>
   <a href="https://www.linkedin.com/in/mgsj2006">
     <img align="left" alt="Manoel Jr | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
