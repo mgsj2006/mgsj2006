@@ -1,6 +1,6 @@
 # Manoel Junior <img src ="https://media.giphy.com/media/iFmXcljNHXHXm3tONG/giphy.gif" width="50px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://media.giphy.com/media/13V60VgE2ED7oc/giphy.gif" width="24px">
 
 <p>
   <em>
