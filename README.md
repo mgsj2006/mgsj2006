@@ -1,4 +1,4 @@
-# Manoel Junior <img src ="https://media.giphy.com/media/iFmXcljNHXHXm3tONG/giphy.gif" width="50px">
+# Manoel Junior
 
 <div align="center"><img src="https://drive.google.com/uc?export=view&id=1oEtu4b8vS0_eiB5HkA5zxUJqJqW67dMx"></div>
 
