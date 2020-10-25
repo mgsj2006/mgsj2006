@@ -9,7 +9,7 @@
     Sou <b>Analista de Infraestrutura</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> e <b>Especialista em Microsoft 365</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">, também sou <b>entusiasta</b>
     de computação em <b>nuvem</b>, por isso estou sempre estudando sobre novas tecnologias do mercado. <br>
      Busco <b>crescer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> e me tornar um profissional de 
-    <b>ecelencia</b> em TI. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    <b>excelência</b> em TI. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 <p>
