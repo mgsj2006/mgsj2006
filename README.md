@@ -14,14 +14,20 @@
 </p>
 <p>
 <br>
-  <a href="https://www.linkedin.com/in/mgsj2006">
-    <img align="left" alt="Manoel Jr | Linkedin" width="80px" src="https://drive.google.com/uc?export=view&id=1OZBBrAUS6sMM1OvJYtY2Dh5KuyUKWgWD" />
+  <a href="Microsoft Certified Trainer">
+    <img align="left" alt="Manoel Jr | MCT" width="80px" src="https://drive.google.com/uc?export=view&id=19dlsOOMWLKrnMh2znpXzN2_98h-eeK_m" />
   </a>
-  <a href="https://manoti.com.br">
+  <a href="Teams Administrator Associate">
+    <img align="left" alt="Manoel Jr | Teams" width="80px" src="https://drive.google.com/uc?export=view&id=1OZBBrAUS6sMM1OvJYtY2Dh5KuyUKWgWD" />
+  </a>
+  <a href="Enterprise Administrator Expert">
     <img align="left" alt="Manoel Jr | Enterprise" width="80px" src="https://drive.google.com/uc?export=view&id=1DSEA30JURw9SbqjiveADO6wj7o4u9EXD" />
    </a>
-  <a href="mailto:mgsj2006@gmail.com">
+  <a href="MCSA Windows Server 2016">
     <img align="left" alt="Manoel Jr | MCSA" width="80px" src="https://drive.google.com/uc?export=view&id=1q-1CSdyZcnqVKtkMW554Nc3ACWpgKT7I" />
+  </a>
+  <a href="Azure Administrator">
+    <img align="left" alt="Manoel Jr | Az-104" width="80px" src="https://drive.google.com/uc?export=1ibePu2QH-1ed8g3dw0ycsqf-xESTysqO" />
   </a>
 </p>
 <br><br><br><br>
