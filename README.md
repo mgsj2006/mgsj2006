@@ -30,31 +30,43 @@
     <img align="left" alt="Manoel Jr | Az-104" width="80px" src="https://drive.google.com/uc?export=1ibePu2QH-1ed8g3dw0ycsqf-xESTysqO" />
   </a>
 </p>
-<br><br><br><br>
-
-
-![Manoel's github stats](https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true)
-
-
-<br>
-<br>
-<b> Emtre em contato comigo: </b>
 <br><br>
-  <a href="https://www.linkedin.com/in/mgsj2006">
-    <img align="left" alt="Manoel Jr | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
+<br>
+<br>
+
+<div>
+<a href="https://github.com/mgsj2006">
+<img height="160em" src= "https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgsj2006&hide_border=true&layout=compact&langs_count=7&theme=prussian"/>
+</div>
+  <br>
+  
+  
+<div style="display: flex"><br>
+
+  ![OFFICE](https://img.shields.io/badge/Microsoft365-orangered.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white) 
+  ![AZURE](https://img.shields.io/badge/Azure-darkblue.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white) 
+  ![DEVOPS](https://img.shields.io/badge/AzureDevOps-darkblue.svg?style=for-the-badge&logo=AzureDevOps&logoColor=white)
+  ![PS1](https://img.shields.io/badge/PowerShell-blue.svg?style=for-the-badge&logo=PowerShell&logoColor=white) 
+  ![HCL](https://img.shields.io/badge/Terraform-purple.svg?style=for-the-badge&logo=Terraform&logoColor=white) 
+  ![GRAFANA](https://img.shields.io/badge/Grafana-orange.svg?style=for-the-badge&logo=Grafana&logoColor=white) 
+  ![WINDOWS](https://img.shields.io/badge/Windows-mediumturquoise.svg?style=for-the-badge&logo=Windows&logoColor=white)
+  
+</div>
+<br>
+<br>
+<b> Entre em contato comigo: </b>
+<br><br>
+<a href="https://www.linkedin.com/in/mgsj2006" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://manoti.com.br">
     <img align="left" alt="Manoel Jr | Site" width="26px" src="https://drive.google.com/uc?export=view&id=1GQlIVzvrZua3j_CvN20Hh5O6IAU3yk1i" />
    </a>
   <a href="mailto:mgsj2006@gmail.com">
-    <img align="left" alt="Manoel Jr | Email" width="26px" src="https://drive.google.com/uc?export=view&id=1dLnPlaznpB4zhFwV-USAPehvNF2hhk1O" />
+    <img align="left" alt="Manoel Jr | Email" src="https://img.shields.io/badge/email-blue.svg?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
   </a>
   <a href="https://t.me/mgsj2006">
-    <img align="left" alt="Manoel Jr | Telegram" width="26px" src="https://drive.google.com/uc?export=view&id=1-KkucvYI09E5EnrH52jjwd0XjPGkYsc2" />
+    <img align="left" alt="Manoel Jr | Telegram" src="https://img.shields.io/badge/telegram-dodgerblue.svg?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
 <br><br><br><br>
 </p>
 <div align="right"><img src="https://media.giphy.com/media/13V60VgE2ED7oc/giphy.gif" width="80px"></div>
-
-
-**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
