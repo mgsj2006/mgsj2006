@@ -1,6 +1,6 @@
 # Manoel Junior
 
-<div align="center"><img src="https://drive.google.com/uc?export=view&id=1oEtu4b8vS0_eiB5HkA5zxUJqJqW67dMx"></div>
+<div align="center"><img src="https://github.com/mgsj2006/blob/blob/main/output/gifs/Microsoft.gif"></div>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá!&nbsp;
 <p>
@@ -15,19 +15,19 @@
 <p>
 <br>
   <a href="Microsoft Certified Trainer">
-    <img align="left" alt="Manoel Jr | MCT" width="80px" src="https://drive.google.com/uc?export=view&id=19dlsOOMWLKrnMh2znpXzN2_98h-eeK_m" />
+    <img align="left" alt="Manoel Jr | MCT" width="80px" src="https://github.com/mgsj2006/blob/blob/main/output/images/MCT-Microsoft_Certified_Trainer-600x600.png" />
   </a>
   <a href="Teams Administrator Associate">
-    <img align="left" alt="Manoel Jr | Teams" width="80px" src="https://drive.google.com/uc?export=view&id=1OZBBrAUS6sMM1OvJYtY2Dh5KuyUKWgWD" />
+    <img align="left" alt="Manoel Jr | Teams" width="80px" src="https://github.com/mgsj2006/blob/blob/main/output/images/CERT-Associate-Microsoft365-Teams-Administrator%20(1).png" />
   </a>
   <a href="Enterprise Administrator Expert">
-    <img align="left" alt="Manoel Jr | Enterprise" width="80px" src="https://drive.google.com/uc?export=view&id=1DSEA30JURw9SbqjiveADO6wj7o4u9EXD" />
+    <img align="left" alt="Manoel Jr | Enterprise" width="80px" src="https://github.com/mgsj2006/blob/blob/main/output/images/microsoft365-enterprise-adminstrator-expert-600x600%20(1).png" />
    </a>
   <a href="MCSA Windows Server 2016">
-    <img align="left" alt="Manoel Jr | MCSA" width="80px" src="https://drive.google.com/uc?export=view&id=1q-1CSdyZcnqVKtkMW554Nc3ACWpgKT7I" />
+    <img align="left" alt="Manoel Jr | MCSA" width="80px" src="https://github.com/mgsj2006/blob/blob/main/output/images/MCSA-Windows-Server-2016-2019%20(1).png" />
   </a>
   <a href="Azure Administrator">
-    <img align="left" alt="Manoel Jr | Az-104" width="80px" src="https://drive.google.com/uc?export=1ibePu2QH-1ed8g3dw0ycsqf-xESTysqO" />
+    <img align="left" alt="Manoel Jr | Az-104" width="80px" src="https://github.com/mgsj2006/blob/blob/main/output/images/azure-administrator.png" />
   </a>
 </p>
 <br><br>
@@ -59,7 +59,7 @@
 <br><br>
 <a href="https://www.linkedin.com/in/mgsj2006" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://manoti.com.br">
-    <img align="left" alt="Manoel Jr | Site" width="26px" src="https://drive.google.com/uc?export=view&id=1GQlIVzvrZua3j_CvN20Hh5O6IAU3yk1i" />
+    <img align="left" alt="Manoel Jr | Site" width="26px" src="https://github.com/mgsj2006/blob/blob/main/output/images/MyLogo-02.png" />
    </a>
   <a href="mailto:mgsj2006@gmail.com">
     <img align="left" alt="Manoel Jr | Email" src="https://img.shields.io/badge/email-blue.svg?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" />
