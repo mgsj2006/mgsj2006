@@ -1,4 +1,4 @@
-# Manoel Junior
+# Manoel Junior <img align= "right" src="https://badges.pufler.dev/visits/mgsj2006/mgsj2006">
 
 <div align="center"><img src="https://github.com/mgsj2006/blob/blob/main/output/gifs/Microsoft.gif"></div>
 
@@ -36,8 +36,8 @@
 
 <div>
 <a href="https://github.com/mgsj2006">
-<img height="160em" src= "https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true&theme=prussian&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgsj2006&hide_border=true&layout=compact&langs_count=7&theme=prussian"/>
+<img width = "400em" src= "https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<img width = "480em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgsj2006&hide_border=true&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   <br>
   
