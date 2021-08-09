@@ -36,18 +36,18 @@
 
 <div>
 <a href="https://github.com/mgsj2006">
-<img width = "400em" src= "https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true&theme=prussian&include_all_commits=true&count_private=true"/>
-<img width = "480em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgsj2006&hide_border=true&layout=compact&langs_count=7&theme=prussian"/>
+<img width = "380em" src= "https://github-readme-stats.vercel.app/api?username=mgsj2006&show_icons=true&hide_border=true&theme=prussian&include_all_commits=true&count_private=true"/>
+<img width = "460em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgsj2006&hide_border=true&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   <br>
   
   
 <div style="display: flex"><br>
 
-  ![OFFICE](https://img.shields.io/badge/Microsoft365-orangered.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white) 
+  ![OFFICE](https://img.shields.io/badge/M365-orangered.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white) 
   ![AZURE](https://img.shields.io/badge/Azure-darkblue.svg?style=for-the-badge&logo=MicrosoftAzure&logoColor=white) 
   ![DEVOPS](https://img.shields.io/badge/AzureDevOps-darkblue.svg?style=for-the-badge&logo=AzureDevOps&logoColor=white)
-  ![PS1](https://img.shields.io/badge/PowerShell-blue.svg?style=for-the-badge&logo=PowerShell&logoColor=white) 
+  ![PS1](https://img.shields.io/badge/PShell-blue.svg?style=for-the-badge&logo=PowerShell&logoColor=white) 
   ![HCL](https://img.shields.io/badge/Terraform-purple.svg?style=for-the-badge&logo=Terraform&logoColor=white) 
   ![GRAFANA](https://img.shields.io/badge/Grafana-orange.svg?style=for-the-badge&logo=Grafana&logoColor=white) 
   ![WINDOWS](https://img.shields.io/badge/Windows-mediumturquoise.svg?style=for-the-badge&logo=Windows&logoColor=white)
