@@ -29,6 +29,9 @@
   <a href="Azure Administrator">
     <img align="left" alt="Manoel Jr | Az-104" width="80px" src="https://github.com/mgsj2006/blob/blob/main/output/images/azure-administrator.png" />
   </a>
+  <a href="Terraform Associate">
+    <img align="left" alt="Manoel Jr | Az-104" width="80px" src="https://github.com/mgsj2006/blob/blob/main/output/images/hashicorp-certified-terraform-associate.png" />
+  </a>
 </p>
 <br><br>
 <br>
